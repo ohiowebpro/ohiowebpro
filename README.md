@@ -1,0 +1,1 @@
+- 👋 Hi, I’m Eric, Currently working with SvelteKit, Ionic, nativescript and WordPress
