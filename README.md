@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Eric. Currently working with SvelteKit, Ionic, nativescript and WordPress
+- 👋 Hi, I’m Eric. Currently working with Roots Sage, JavaScript, Tailwind, and Blade in a WordPress development process.
