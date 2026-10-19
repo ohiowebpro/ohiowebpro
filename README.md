@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Eric. Currently working with Roots Sage, JavaScript, Tailwind, and Blade in DDEV local environment, building WordPress for clients.
-- Started working with Laravel again in 2024
+- 👋 Hi, I’m Eric. Currently working with NextJS, TypeScript, Tailwind, and Sanity.
